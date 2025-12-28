@@ -2,6 +2,8 @@
 
 AstraStyle is a high-end, merchant-focused web application that leverages the power of **Google Gemini API** to transform e-commerce photography. It allows fashion brands to generate photorealistic virtual try-ons while simultaneously crafting complete marketing strategies in seconds.
 
+![AstraStyle Interface](Screenshot 2025-12-28 223537.png)
+
 ## ✨ Features
 
 ### 📸 Pro-Grade Virtual Try-On
